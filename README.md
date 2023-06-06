@@ -8,7 +8,7 @@ This repository showcases the hidden gems of India, featuring lesser-known desti
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -36,8 +36,4 @@ Contributions to the Hidden Gems of India project are welcome! If you have infor
 1. Fork the repository.
 2. Make necessary changes and additions.
 3. Submit a pull request, describing the changes you've made and their significance.
-
-## License
-
-The Hidden Gems of India website is released under the [MIT License](LICENSE), which allows for both personal and commercial use of the project.
 
